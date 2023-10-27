@@ -1,0 +1,37 @@
+img {
+    width: 40px;
+    height: 40px;
+}
+header {
+    color:#1D2B20;
+text-align:left;
+font-style:vinyl pop;
+font-weight: bold;
+font-size: 40px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.iconuni {
+    width: 80px;
+    height: 80px;
+}
+footer {
+    padding-top: 30px;
+}
+.nav-flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    background-color: #000000;
+}
+.nav-flex-item {
+    list-style-type: none;
+    padding: 20px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+.nav-flex-item:hover {
+background-color: #796d6d;
+}
